@@ -9,7 +9,7 @@ function App() {
         <h1 className="App-title">Welcome to React</h1>
       </header>
       <p className="App-intro">
-        I was changed!
+        learn react
       </p>
     </div>
   );
