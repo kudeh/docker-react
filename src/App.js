@@ -10,6 +10,7 @@ function App() {
       </header>
       <p className="App-intro">
         learn react
+        I was changed on feature branch
       </p>
     </div>
   );
